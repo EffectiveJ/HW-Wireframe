@@ -55,7 +55,7 @@ p{
     margin-left: 10px;
     margin-right: 10px;
 }
-aside{
+footer{
     float: left;
     background-color: #ebebeb;
     color:#777;
@@ -64,11 +64,11 @@ aside{
     margin-bottom: 15px;
     overflow: auto;
 }
-footer{
+aside{
     color:#777;
     background-color:#ebebeb;
     width:448px;
     padding:25px;
-    margin-left: 49%;
+    margin-left: 525px;
     height:190px;
 }
